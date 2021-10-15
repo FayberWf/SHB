@@ -5,9 +5,9 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print("Приветусики")
-print("Я Серёжа")
-print("Кеса")
+print("Здравствуйте")
+print("Я Свят")
+print("shb")
 print("Изменяю ещё")
 print('Hello world!')
 import random
